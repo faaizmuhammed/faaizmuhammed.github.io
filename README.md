@@ -1,1 +1,2 @@
-# faaizmuhammed.github.io
+Faaiz Muhammed 
+IIM Rohtak
